@@ -1,6 +1,6 @@
 package ex_001_Java_Basics;
 
-public class Lab_007_ReservedKeywordsWithTheirMeaning {
+public class Lab_007_ReservedKeywordsWithTheirMeaning_ChatGPT {
   public static void main(String[] args) {
     /*
 -Simple English words** which are having predefined meaning in **Java Programming Language.**
