@@ -24,5 +24,11 @@ public class Lab_010_SelfPracticePrintCommands {
       String name2 = "John";
       System.out.printf("My age is %d and my name is %s\n", age1, name1);
       System.out.printf("My age is %d and my name is %s", age2, name2);
+
+       // %d -> int, byte, long, short, - data type
+        // %s -> String
+        // %f -> float, double,
+        // %b ->boolean
+
     }
 }
